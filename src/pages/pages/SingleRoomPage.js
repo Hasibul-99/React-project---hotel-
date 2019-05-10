@@ -6,6 +6,7 @@ export default class SingleRoomPage extends Component {
     prop: PropTypes
   }
 
+  
   render() {
     return (
       <div>
