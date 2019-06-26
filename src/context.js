@@ -39,6 +39,10 @@ class RoomProvider extends Component {
 
         return tempItems;
     }
+    
+    getRoom = (slug) => { //2.26
+
+    }
 
     render() {
         return (
